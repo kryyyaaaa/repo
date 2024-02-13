@@ -19,5 +19,20 @@
             "type": 1
         },
         
+        {
+            "name": "iCreate Crack",
+            "bundleIdentifier": "com.kryyaasoft.ic",
+            "developerName": "kryyaaWare",
+            "version": "2.2",
+            "versionDate": "2024-01-13T22:20:00+08:00",
+            "versionDescription": "Geometry dash 2.2 with iCreate\niCreate cracked.",
+            "downloadURL": "https://github.com/kryyyaaaa/repo/releases/download/hu/iCreate.ipa",
+            "localizedDescription": "best.",
+            "iconURL": "https://github.com/kryyyaaaa/repo/releases/download/hu/ic.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
     ]
 }
