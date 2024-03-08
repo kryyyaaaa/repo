@@ -1,7 +1,7 @@
 {
     "name": "kryyaa's repo",
     "identifier": "kryyaa.soft.repo",
-    "sourceURL": "https://github.com/kryyyaaaa/repo/blob/main/app.json",
+    "sourceURL": "https://t.me/kryyaasoft",
     "apps": [
         {
             "name": "H5GG",
@@ -33,6 +33,38 @@
             "isLanZouCloud": 0,
             "size": 7206362,
             "type": 1
-        }
+        }, 
+      
+         {
+            "name": "TikTok LRD",
+            "bundleIdentifier": "com.kryyaasoft.h5",
+            "developerName": "kryyaaWare",
+            "version": "33.3.0",
+            "versionDate": "2024-01-28T21:40:00+08:00",
+            "versionDescription": "TikTok mod",
+            "downloadURL": "https://github.com/kryyyaaaa/repo/releases/download/hgu/lrd.ipa",
+            "localizedDescription": "best.",
+            "iconURL": "https://github.com/kryyyaaaa/repo/releases/download/hgu/lrd.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        },
+     
+        {
+            "name": "EasyHTML2",
+            "bundleIdentifier": "com.kryyaasoft.h5",
+            "developerName": "kryyaaWare",
+            "version": "33.3.0",
+            "versionDate": "2024-01-28T21:40:00+08:00",
+            "versionDescription": "HTML editor",
+            "downloadURL": "https://github.com/kryyyaaaa/repo/releases/download/hgu/html.ipa",
+            "localizedDescription": "best.",
+            "iconURL": "https://github.com/kryyyaaaa/repo/releases/download/hgu/htt.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        },
     ]
 }
